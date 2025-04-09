@@ -7,7 +7,7 @@ export const StoreContext = createContext(null)
 
 const StoreContextProvider = (props) => {
     const [cartItems, setCartItems] = useState({});
-    const url = "https://dishi-backend-ppkp.onrender.com"
+    const url = "https://dishi-backend-21z9.onrender.com"
     const [token, setToken] = useState("");
     const [food_list, setFoodList] = useState([]);
     const [searchQuery, setSearchQuery] = useState("");
