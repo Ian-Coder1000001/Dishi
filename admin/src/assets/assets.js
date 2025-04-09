@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://dishi-backend-ppkp.onrender.com'
+export const url = 'https://dishi-backend-21z9.onrender.com'
